@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 Technical Skills : C++, Python, Java, HTML, CSS, PHP, MySQL
+- 💬 Ask me about : Web Development and Latest technologies
+
+([Linkedin](https://www.linkedin.com/in/revatipatil/))
+  
+
 <!--
 **patilrevati/patilrevati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
