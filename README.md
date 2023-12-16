@@ -3,7 +3,7 @@
 - 🌱 Technical Skills : C++, Python, Java, HTML, CSS, PHP, MySQL
 - 💬 Ask me about : Web Development and Latest technologies
 
-([Linkedin](https://www.linkedin.com/in/revatipatil/))
+[Linkedin](https://www.linkedin.com/in/revatipatil/)
   
 
 <!--
